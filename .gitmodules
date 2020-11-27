@@ -1,0 +1,3 @@
+[submodule "hr-payroll-mxn"]
+	path = hr-payroll-mxn
+	url = git@github.com:xmarts/hr-payroll-mxn.git
